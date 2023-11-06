@@ -8,6 +8,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYzFmMDlhOTktZTBiZC00YWM2LTgyNTEtMzQ3YTNlNmJiZGI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+
 ## Tech stacks
 
 - SQL
